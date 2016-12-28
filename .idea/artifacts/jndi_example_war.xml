@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jndi_example:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="jndi_example.war">
+      <element id="artifact" artifact-name="jndi_example:war exploded" />
+    </root>
+  </artifact>
+</component>
